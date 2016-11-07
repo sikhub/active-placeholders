@@ -1,3 +1,10 @@
+/* 
+ * jQuery Active Placeholders Plugin - v1.0
+ * Copyright (c)2016 Blaž Cigale <blaz.cigale@gmail.com>
+ * 2016-11-07
+ *
+ */
+ 
 (function ( $ ) {
  
     $.fn.activePlaceholders = function() {
