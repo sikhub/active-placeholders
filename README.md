@@ -1,7 +1,8 @@
 # jQuery activePlaceholders
 A simple, lightweight plugin to make interactive input placeholders.
 
-##Demo: [right here](http://periplox.github.io/jquery.imagefit/)
+##Demo 
+[Check demo](https://sikhub.github.io/active-placeholders/)
 
 ##Usage
 
