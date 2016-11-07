@@ -1,0 +1,51 @@
+.active-placeholders {
+	position: relative;
+	margin-top: 30px;
+	box-shadow: none;
+}
+
+.active-placeholders > input {
+	border-width: 0 0 1px;
+	border-color: #eee;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: 0;
+}
+
+.active-placeholders > label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition-property: all;
+    transition-duration: .25s;
+    color: #999;
+	margin: 7px 0 0 10px;
+	font-weight: normal;
+}
+
+.active-placeholders > label.labeled {
+    top: -25px;
+	margin-top: 0;
+	font-weight: normal;
+	color: #2980b9;
+}
+
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+}
