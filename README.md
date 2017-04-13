@@ -1,10 +1,10 @@
 # jQuery activePlaceholders v1.0
 A simple, lightweight plugin to make interactive input placeholders.
 
-##Demo 
+## Demo 
 [Check demo](https://sikhub.github.io/active-placeholders/)
 
-##Usage
+## Usage
 
 First, include the required files:
 ``` html
